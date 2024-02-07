@@ -4,11 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Basic_Calculator_Operations extends AppCompatActivity {
+
+public class Basic_Calculator extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_basic_calculator_operations);
+        setContentView(R.layout.activity_basic_calculator);
     }
 }
